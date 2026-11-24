@@ -1,4 +1,4 @@
-# Proyecto
+stre# Proyecto
 
 ## Análisis Interactivo de Datos con Streamlit
 
@@ -29,7 +29,7 @@ El *dataset* de California contiene datos sobre la mediana de ingresos, la edad 
 | Latitude | Latitud del centro geográfico del grupo de bloques. |
 | Longitude | Longitud del centro geográfico del grupo de bloques. |
 | MedHouseVal (Target) | Mediana del valor de la vivienda (en cientos de miles de dólares). |
-
+streamlit
 ---
 
 ## Actividades Requeridas del Proyecto
